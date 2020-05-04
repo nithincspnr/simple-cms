@@ -1,10 +1,10 @@
 # Simple cms
-A cms application built using the tiny php framework PIP
+A tiny cms framework
 
+This is built on top of the php framework called PIP.
+You can find the source here https://github.com/gilbitron/PIP.
 
-This application is built using the tiny php framework PIP https://github.com/gilbitron/PIP
-
-The PIP framework is customized partly for the application, since support is discontinued, have had to rewrite basic core functions which is deprecated.
+Deprecated core functions are removed, updated with new ones and added some of the basic features,
 
 * Included a paginator helper class
 * Added seperate constant configuration file
